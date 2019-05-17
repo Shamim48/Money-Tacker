@@ -1,0 +1,224 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\efb58af6d3c26bba0eae3769a4c9b030\AndroidManifest.xml:17:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\98c924ee06322f780750c43db822be89\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\4ab2c48923569750db851a33118d87b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\70551f352d69d5f7fc070aaf7aedcade\AndroidManifest.xml:2:1-11:12
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\f6143ecfba2ee395ca2790073e945dbb\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\593753a147c7d2d155aa099efae289e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\1b64ce10a74801ba7e7cc6630aa07b9f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2337331116ebeaeeeb2f7cb36eae43cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\15552d83a36b33d65e46ac51c2f4b6ab\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\59708e09a5843cb0acc9740d356d394f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2f84d694324dd68e9a9a1d3a1631c9bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\a5cdb7311db4cd163f537e12e400bfa8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\453bd531cb193915fb38c85a9e1983a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\8bf1881545ac54c8ba7927e348d43b1d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\b9a2c0da5e88dc648af496c7cd1a4cbd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\79020f2647a0244109bfabe232ca413e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\71e284eeac002bb850681a8ad4db5c3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2dc700d0eade4f6ff9a9a22b976ddf7b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\fd5a9a7ccd4d4d9ebb5f2f915193e98a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\d3a4180cf87708a06f866509b6b4e520\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c025e6c7e2be14c79b0567f37d4a4a0c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\dd5c5832f54bfd915249b9febd89e47a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c7cdf9f7f41d3ea8effb5bc6b100e7c5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2c47e6d7282d3356ddf0e54e1a207525\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\e1eb9dfe5109190a4a9cd33314b1584c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\bc695a2c9357152965a13e792418eb76\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\7716eb485329ad7542327f00e0385e37\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c036fa4d7ac8978da9cb1d0a6afb9f02\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\255bd5fcd20821c4f846b556fa128770\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\21b580c01eebf4e0ef3b7ad193dc098e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\872ec934c30646411ee61d08728223c5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\a9826ff25832ab51f7ac21b0e7bffa46\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\659f0d024d423763e010e38979f6305e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\53afd16a1f7066f5c0893e789a756333\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2a7b496193b212fd51c702e09f6e6adc\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.CAMERA
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:7:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:9:5-11:35
+	android:required
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:11:9-32
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:10:9-47
+application
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:13:5-31:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\efb58af6d3c26bba0eae3769a4c9b030\AndroidManifest.xml:26:5-30:19
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\efb58af6d3c26bba0eae3769a4c9b030\AndroidManifest.xml:26:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\98c924ee06322f780750c43db822be89\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\98c924ee06322f780750c43db822be89\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\70551f352d69d5f7fc070aaf7aedcade\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\70551f352d69d5f7fc070aaf7aedcade\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\f6143ecfba2ee395ca2790073e945dbb\AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\f6143ecfba2ee395ca2790073e945dbb\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c7cdf9f7f41d3ea8effb5bc6b100e7c5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c7cdf9f7f41d3ea8effb5bc6b100e7c5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2c47e6d7282d3356ddf0e54e1a207525\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2c47e6d7282d3356ddf0e54e1a207525\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c7cdf9f7f41d3ea8effb5bc6b100e7c5\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:18:9-35
+	android:label
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:17:9-54
+	android:icon
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:19:9-40
+activity#com.Shamim.moneytracker.Activity.UpdateContainer
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:20:9-94
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:20:19-82
+activity#com.Shamim.moneytracker.Activity.ContainerList
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:21:9-83
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:21:19-80
+activity#com.Shamim.moneytracker.Activity.DrawerActivity
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:22:9-84
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:22:19-81
+activity#com.Shamim.moneytracker.Activity.MainActivity
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:23:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:27:27-74
+activity#com.Shamim.moneytracker.AddItem_On_Spinner
+ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:30:9-79
+	android:name
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml:30:19-76
+uses-sdk
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\efb58af6d3c26bba0eae3769a4c9b030\AndroidManifest.xml:22:5-24:41
+MERGED from [com.karumi:dexter:5.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\efb58af6d3c26bba0eae3769a4c9b030\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\98c924ee06322f780750c43db822be89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\98c924ee06322f780750c43db822be89\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\4ab2c48923569750db851a33118d87b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\4ab2c48923569750db851a33118d87b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\70551f352d69d5f7fc070aaf7aedcade\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\70551f352d69d5f7fc070aaf7aedcade\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\f6143ecfba2ee395ca2790073e945dbb\AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\f6143ecfba2ee395ca2790073e945dbb\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\593753a147c7d2d155aa099efae289e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\593753a147c7d2d155aa099efae289e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\1b64ce10a74801ba7e7cc6630aa07b9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\1b64ce10a74801ba7e7cc6630aa07b9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2337331116ebeaeeeb2f7cb36eae43cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2337331116ebeaeeeb2f7cb36eae43cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\15552d83a36b33d65e46ac51c2f4b6ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\15552d83a36b33d65e46ac51c2f4b6ab\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\59708e09a5843cb0acc9740d356d394f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\59708e09a5843cb0acc9740d356d394f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2f84d694324dd68e9a9a1d3a1631c9bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2f84d694324dd68e9a9a1d3a1631c9bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\a5cdb7311db4cd163f537e12e400bfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\a5cdb7311db4cd163f537e12e400bfa8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\453bd531cb193915fb38c85a9e1983a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\453bd531cb193915fb38c85a9e1983a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\8bf1881545ac54c8ba7927e348d43b1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\8bf1881545ac54c8ba7927e348d43b1d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\b9a2c0da5e88dc648af496c7cd1a4cbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\b9a2c0da5e88dc648af496c7cd1a4cbd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\79020f2647a0244109bfabe232ca413e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\79020f2647a0244109bfabe232ca413e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\71e284eeac002bb850681a8ad4db5c3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\71e284eeac002bb850681a8ad4db5c3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2dc700d0eade4f6ff9a9a22b976ddf7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2dc700d0eade4f6ff9a9a22b976ddf7b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\fd5a9a7ccd4d4d9ebb5f2f915193e98a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\fd5a9a7ccd4d4d9ebb5f2f915193e98a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\d3a4180cf87708a06f866509b6b4e520\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\d3a4180cf87708a06f866509b6b4e520\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c025e6c7e2be14c79b0567f37d4a4a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c025e6c7e2be14c79b0567f37d4a4a0c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\dd5c5832f54bfd915249b9febd89e47a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\dd5c5832f54bfd915249b9febd89e47a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c7cdf9f7f41d3ea8effb5bc6b100e7c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c7cdf9f7f41d3ea8effb5bc6b100e7c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2c47e6d7282d3356ddf0e54e1a207525\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2c47e6d7282d3356ddf0e54e1a207525\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\e1eb9dfe5109190a4a9cd33314b1584c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\e1eb9dfe5109190a4a9cd33314b1584c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\bc695a2c9357152965a13e792418eb76\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\bc695a2c9357152965a13e792418eb76\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\7716eb485329ad7542327f00e0385e37\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\7716eb485329ad7542327f00e0385e37\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c036fa4d7ac8978da9cb1d0a6afb9f02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\c036fa4d7ac8978da9cb1d0a6afb9f02\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\255bd5fcd20821c4f846b556fa128770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\255bd5fcd20821c4f846b556fa128770\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\21b580c01eebf4e0ef3b7ad193dc098e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\21b580c01eebf4e0ef3b7ad193dc098e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\872ec934c30646411ee61d08728223c5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\872ec934c30646411ee61d08728223c5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\a9826ff25832ab51f7ac21b0e7bffa46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\a9826ff25832ab51f7ac21b0e7bffa46\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\659f0d024d423763e010e38979f6305e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\659f0d024d423763e010e38979f6305e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\53afd16a1f7066f5c0893e789a756333\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\53afd16a1f7066f5c0893e789a756333\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2a7b496193b212fd51c702e09f6e6adc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\2a7b496193b212fd51c702e09f6e6adc\AndroidManifest.xml:20:5-44
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+		ADDED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Android_Project_Station\Money_Tacker\Money_Tacker\app\src\main\AndroidManifest.xml
+activity#com.karumi.dexter.DexterActivity
+ADDED from [com.karumi:dexter:5.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\efb58af6d3c26bba0eae3769a4c9b030\AndroidManifest.xml:27:9-29:72
+	android:theme
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\efb58af6d3c26bba0eae3769a4c9b030\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.karumi:dexter:5.0.0] C:\Users\Shamim\.gradle\caches\transforms-2\files-2.1\efb58af6d3c26bba0eae3769a4c9b030\AndroidManifest.xml:28:13-60

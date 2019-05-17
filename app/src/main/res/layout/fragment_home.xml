@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.HomeFragment"
+    android:orientation="vertical"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:background="#e3f7f4f4"
+        android:orientation="horizontal"
+        android:layout_marginTop="1dp"
+        android:weightSum="3"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:textColor="#1fff01"
+                android:textStyle="normal"
+                android:layout_height="wrap_content"
+                android:text="Income" />
+
+            <TextView
+                android:id="@+id/home_fragment_income"
+                android:layout_marginTop="4dp"
+                android:text="5000"
+                android:textColor="#01ff45"
+                android:textSize="18sp"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:textColor="#ff0101"
+                android:textStyle="normal"
+                android:layout_height="wrap_content"
+                android:text="Expenses" />
+
+            <TextView
+                android:id="@+id/home_fragment_expenses"
+                android:layout_marginTop="4dp"
+                android:text="2000"
+                android:textColor="#ff0000"
+                android:textSize="18sp"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:textSize="20sp"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:textColor="#1fff01"
+
+                android:textStyle="normal"
+                android:layout_height="wrap_content"
+                android:text="Balance" />
+
+            <TextView
+                android:id="@+id/home_fragment_balance"
+                android:layout_marginTop="4dp"
+                android:text="3000"
+                android:textColor="#01ff45"
+                android:textSize="18sp"
+                android:gravity="center_horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/home_fragment_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+
+        >
+
+    </android.support.v7.widget.RecyclerView>
+
+
+</LinearLayout>
